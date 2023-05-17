@@ -1,0 +1,47 @@
+_repo: Children-of-the-lens_70483
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Hubert
+    alias: Rogers, Reginald Hubert
+    birthdate: 1898
+    deathdate: 1982
+    gutenberg_agent_id: '55772'
+    url: http://www.gutenberg.org/2009/agents/55772
+creator:
+  author:
+    agent_name: Smith, E. E. (Edward Elmer)
+    aliases:
+    - Smith, Edward Elmer
+    - Smith, Doc
+    - Smith, Edward E.
+    - Smith, E.E.
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '9515'
+    url: http://www.gutenberg.org/2009/agents/9515
+    wikipedia: https://en.wikipedia.org/wiki/E._E._Smith
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Children_of_the_Lens_(novel)'
+gutenberg_issued: '2023-04-06'
+identifiers:
+  gutenberg: '70483'
+language: en
+pgterms:marc905: 20220608170704smith
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStreet & Smith Publications, Inc., $c1947,
+  copyright 1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Lensman 6.
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space warfare -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Children of the lens
+url: http://www.gutenberg.org/ebooks/70483
