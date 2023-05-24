@@ -8,6 +8,9 @@ contributor:
     deathdate: 1982
     gutenberg_agent_id: '55772'
     url: http://www.gutenberg.org/2009/agents/55772
+covers:
+- cover_type: archival
+  image_path: 70483-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, E. E. (Edward Elmer)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9515
     wikipedia: https://en.wikipedia.org/wiki/E._E._Smith
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Children_of_the_Lens_(novel)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70483#Children-of-the-lens
 gutenberg_issued: '2023-04-06'
 identifiers:
   gutenberg: '70483'
